@@ -70,3 +70,24 @@ graph TD
     style A fill:#ff6b6b,color:white
     style K fill:#1a535c,color:white
     style J fill:#10b981,color:white
+
+
+
+
+## Installation – Takes Exactly 2 Minutes
+
+```bash
+# 1. Clone the project
+git clone https://github.com/Premkumar-2004/account-plan-agent.git
+cd account-plan-agent
+
+# 2. Install everything it needs
+pip install openai beautifulsoup4 requests pyttsx4 speechrecognition pyaudio
+
+# ← Windows users: if pyaudio fails, run these two lines first →
+# pip install pipwin
+# pipwin install pyaudio
+
+# 3. Run it
+python final-agent.py
+
