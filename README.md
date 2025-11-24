@@ -5,7 +5,7 @@ Say any company name → get a complete, accurate, spoken enterprise account pla
 No tabs. No copy-paste. No conflicting data. No excuses.
 
 Built and used every single day by **B Prem Kumar**  
-GitHub → https://github.com/Premkumar-2004/account-plan-agent
+GitHub → https://github.com/Premkumar-2004/account-plan-agent  
 
 ---
 
@@ -72,11 +72,6 @@ graph TD
     style J fill:#10b981,color:white
 
 
-
-
-## Installation – Takes Exactly 2 Minutes
-
-```bash
 # 1. Clone the project
 git clone https://github.com/Premkumar-2004/account-plan-agent.git
 cd account-plan-agent
@@ -90,4 +85,3 @@ pip install openai beautifulsoup4 requests pyttsx4 speechrecognition pyaudio
 
 # 3. Run it
 python final-agent.py
-
